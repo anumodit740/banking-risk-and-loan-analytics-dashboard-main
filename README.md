@@ -71,3 +71,13 @@ The report is structured into four distinct analytical layers to provide a 360-d
 * **Revenue Parsing:** Extracted operational margins by calculating distinct `Processing Fees` tied directly to categorical `Fee Structures`.
 
 ### 📈 Core KPI Metrics
+
+ ---
+
+## 🚀 Future Roadmap
+
+* **Investor Profiling:** Segment underwriting sources to evaluate loan concentration risks across distinct institutional investor brackets.
+* **Competitive Market Strategy:** Benchmarking market-share capture across various banking models (e.g., Private vs. Public) to guide customer acquisition strategies.
+* **Geographical Risk Modeling:** Mapping credit allocations against demographic and national origins to identify macroeconomic risk concentrations.
+
+---
